@@ -38,6 +38,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
     menuIcon.onclick = () => {
         menuIcon.classList.toggle('bx-x');
-        navbar.classList.toggle('active');
+        navbar.classList.toggle('active'); // Remove the dot before 'active'
     };
 });
