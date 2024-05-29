@@ -600,7 +600,9 @@ span{
         font-size: 7vw;
     }
     .services-info p {
-        font-size:4vw;
+        font-size:7vw;
     }
+    .heading{
+        font-size:4rem;
 }
 
