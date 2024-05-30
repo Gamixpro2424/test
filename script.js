@@ -41,3 +41,11 @@ document.addEventListener("DOMContentLoaded", function() {
         navbar.classList.toggle('active'); // Remove the dot before 'active'
     };
 });
+
+        (function() {
+            emailjs.init("DSkWrI6ILAefmZceD"); // Replace 'YOUR_USER_ID' with your actual EmailJS user ID
+        })();
+   
+
+
+       
