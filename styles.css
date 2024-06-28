@@ -9,10 +9,10 @@
     font-family: "Poppins", sans-serif;
 }
 :root{
-    --bg-color: #000000;
+    --bg-color: #080808;
     --second-bg-color: #131313;
     --text-color: white;
-    --main-color: #FFFF00;
+    --main-color: #fff700;
 }
 html{
     font-size: 60%; 
